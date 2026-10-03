@@ -1,0 +1,49 @@
+CVS pharmacy(R)
+
+WAL-LEX SHOPPING CTR, WALTHAM, MA
+PHARMACY: 893-2070     STORE: 893-6831
+REG#08 TRN#6884 CSHR#000093 STR#291
+
+ExtraCare Card #: ********9429
+
+  1 MB VITAMIN D DROPS .11Z        16.99T
+  1 MB VITAMIN D DROPS .11Z        16.99T
+F 1 CVS PETROLEU JLLY 13Z           6.69T
+
+  3 ITEMS
+     SUBTOTAL                       40.67
+     MA 6.25% TAX                    2.54
+     TOTAL                          43.21
+     CHARGE                         43.21
+     ************2894      RF
+MASTERCARD           ************2894
+APPROVED# 13287P     REF# 088844
+TRAN TYPE: SALE      AID: A0000000041010
+TC: 93C2B7BA71CB211E TERMINAL#
+PIN VERIFIED OFFLINE CVM: 010002
+TVR(95): 0020008000  TSI(9B): A800
+
+     CHANGE                           .00
+
+[barcode]
+      3500 2916 2746 8840 83
+
+Returns with receipt, subject to
+CVS Return Policy, thru 11/30/2026
+Refund amount is based on price
+after all coupons and discounts.
+
+OCTOBER 1, 2026                8:58 PM
+
+[recycling symbols]
+
+      14 no-cost vaccines
+  available with most insurance
+
+  Protect yourself against RSV,
+     shingles, Tdap & more.
+   Subject to availability.
+      Restrictions apply.
+
+[QR code]
+Scan the QR to schedule your vaccination.
